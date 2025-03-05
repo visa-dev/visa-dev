@@ -10,7 +10,7 @@
 const virajSachin = {
   role: 'Full Stack Software Engineer',
   location: 'Sri Lanka',
-  skills: ['Java', 'Spring Boot', 'React', 'Flutter', 'AWS'],
+  skills: ['Java', 'Spring Boot', Flask ' , 'React', 'Next', 'Angular' , 'Flutter', 'AWS'],
   passion: 'Creating scalable and innovative software solutions'
 }
 ```
