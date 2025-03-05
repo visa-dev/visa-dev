@@ -5,7 +5,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=visa-dev&style=flat-square)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/virajsachin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://virajsachin.dev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://my-portfolio-lemon-one-42.vercel.app/)
+ 
 
 ---
 
