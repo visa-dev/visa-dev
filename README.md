@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Passionate+Software+Engineer;Building+Scalable+and+Innovative+Solutions!🔥)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=visa-dev&style=flat-square)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/viraj-sachin-gunarathna)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viraj-sachin-gunarathna)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://my-portfolio-lemon-one-42.vercel.app/)
  
 
